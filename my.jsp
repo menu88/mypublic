@@ -1,1 +1,0 @@
-git config --global user.name 王义军0219001642
