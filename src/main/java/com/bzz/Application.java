@@ -20,7 +20,7 @@ public class Application {
     public String index() {
     	
     	
-    	
+    	String name="menu88";
     	
         return "Hello World! \t 浣犲ソ澶х唺,鍢垮樋鍢�;
     }
